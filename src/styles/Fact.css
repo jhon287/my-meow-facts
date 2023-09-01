@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'PinkyCat';
+    src: url(../fonts/PinkyCat-ywwMV.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'CattieRegular';
+    src: local('CattieRegular'), url(../fonts/CattieRegular-EaBG8.ttf) format('truetype');
+}
+
+.Fact {
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 2%;
+    width: 70%;
+    border: 2px dashed #B85042;
+    font-family: 'PinkyCat';
+    font-size: 2em;
+    text-align: center;
+    color: #B85042;
+    background-color: #E7E8D1;
+}
+
+button {
+    border: 2px solid #B85042;
+    font-family: 'CattieRegular';
+    font-size: 2em;
+    text-align: center;
+    color: #B85042;
+    background-color: #E7E8D1;
+}

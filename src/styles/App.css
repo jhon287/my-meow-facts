@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'CattieRegular';
+  src: local('CattieRegular'), url(../fonts/CattieRegular-EaBG8.ttf) format('truetype');
+}
+
+body {
+  background-color: #A7BEAE;
+}
+
+.App {
+  text-align: center;
+}
+
+.App .title {
+  color: #B85042;
+  font-family: 'CattieRegular';
+  font-size: 5em;
+  font-weight: lighter;
+}
